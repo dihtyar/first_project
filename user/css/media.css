@@ -1,0 +1,58 @@
+/*= My media =*/
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 736px) {
+
+}
+@media screen and (max-width: 667px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+@media screen and (max-width: 568px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 414px){
+}
+
+@media screen and (max-width: 384px) {
+
+}
+
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+
+@media screen and (max-width: 240px) {
+
+}
+/*= My media =*/
+
+/*---------- Retina ----------------*/
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+
+	only screen and (-moz-min-device-pixel-ratio: 1.5),
+
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+
+	only screen and (min-device-pixel-ratio: 1.5){
+
+}
+

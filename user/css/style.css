@@ -1,0 +1,57 @@
+@import url("/user/css/jquery-ui.min.css");
+/*@font-face {*/
+/*font-family: SuzukiPRORegular;*/
+/*src: url('fonts/SuzukiPRORegular.eot');*/
+/*src: url('fonts/SuzukiPRORegular.eot?#iefix') format('embedded-opentype'),*/
+/*url('fonts/SuzukiPRORegular.ttf') format('truetype');*/
+/*font-weight: normal;*/
+/*font-style: normal;*/
+/*}*/
+
+/*------------- Base class ------------*/
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+  width: 100%;
+}
+.fl-r{
+    float: left;
+}
+.fl-r{
+    float: right;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.d-t{
+    display: table;
+}
+.t-cell{
+    display: table-cell;
+}
+.w-100{
+    width: 100%;
+}
+
+.p-r{
+    position: relative;
+}
+
+.p-a{
+    position: absolute;
+}
+
+/*------------- Base class ------------*/
+
+
+/*==== Header ==========*/
+/*==== Header and ==========*/
+
+/*==== Content  ==========*/
+/*==== Content and ==========*/
+
+/*==== Footer  ==========*/
+/*==== Footer and ==========*/
